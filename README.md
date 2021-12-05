@@ -16,7 +16,7 @@ Here are some overall details about each solution. I used GitHub actions to gene
 
 Those metrics should be taken with a grain of salt since I did not use rigorous benchmark technics (like running several times the program and taking the mean out of all the results)
 
-[![chart](graph-path)
+[![chart](graph-path)](graph-path)
 
 ## License
 
